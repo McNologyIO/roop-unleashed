@@ -35,10 +35,17 @@ In the event of violation of the legal and ethical requirements of the user's co
 
 ### Installation
 
-Please refer to the [wiki](https://github.com/C0untFloyd/roop-unleashed/wiki).
+In a Linux envrionment, or in my case, a Runpod server using the Pytorch 2.1 template, run the following commands to install and run the program.
 
+From your main workspace directory(/home/user or /workspace) run:
 
+wget https://github.com/McNologyIO/roop-unleashed/raw/main/install-roop-ul.py
 
+python install-roop-ul.py
+
+That's it! It will download, install all dependancies, and open your browser.
+
+To run it again, just run "python run.py" from the roop-unleashed folder.
 
 ### Usage
 
